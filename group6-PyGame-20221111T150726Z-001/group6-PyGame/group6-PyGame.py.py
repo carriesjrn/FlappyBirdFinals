@@ -1,16 +1,4 @@
-#GROUP 6                                                            #FLAPPY BIRD
 
-# this game is called Flappy bird. press space to avoid the obstacles (tubes) and win the high score by staying alive
-
-
-#MEMBERS:
-
-#1. KEVIN ABGAO
-#2. JHON CARLO PALATINO
-#3. JUSTIN MYLES CANEDO
-#4. ARJAY BALBOA
-#5. CZARINA SAJORNE
-#6. JOHN JED LAGOS
 
  
 from email import message
